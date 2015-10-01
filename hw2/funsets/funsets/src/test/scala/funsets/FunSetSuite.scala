@@ -138,7 +138,7 @@ class FunSetSuite extends FunSuite {
     }
   }
 
-  test("exist tests"){
+  test("map tests"){
     new TestSets {
 
       val s1Squared= map(s1, (x : Int) => x * x)
@@ -155,7 +155,7 @@ class FunSetSuite extends FunSuite {
     }
   }
 
-  test("map tests"){
+  test("exist tests"){
     new TestSets {
       assert(exists(s1, (x : Int) => contains(s1, x)), "exist 1")
       assert(exists(s1, (x : Int) => x == 5), "exist 2")
