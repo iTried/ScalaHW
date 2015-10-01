@@ -71,7 +71,7 @@ object FunSets {
   /**
    * Возвращает множество преобразованное применением `f` к каждому элементу `s`.
    */
-  def map(s: Set, f: Int => Int): Set = ??? //(x: Int) =>
+  def map(s: Set, f: Int => Int): Set =  (x: Int)=> exists(s, (n : Int) => f(n) == x )
 
   /**
    * Отображает содержимое множества

@@ -140,6 +140,23 @@ class FunSetSuite extends FunSuite {
 
   test("exist tests"){
     new TestSets {
+
+      val s1Squared= map(s1, (x : Int) => x * x)
+      val s3PlusOne = map(s3, (x : Int) => x + 1)
+
+      assert(contains(s3PlusOne, 5), "map 1")
+      assert(!contains(s3PlusOne, 6), "map 2")
+
+      assert(contains(s1Squared, 25), "map 3")
+      assert(!contains(s1Squared, 24), "map 4")
+      assert(!contains(s1Squared, 3), "map 5")
+      assert(contains(s1Squared, 10000), "map 6")
+
+    }
+  }
+
+  test("map tests"){
+    new TestSets {
       assert(exists(s1, (x : Int) => contains(s1, x)), "exist 1")
       assert(exists(s1, (x : Int) => x == 5), "exist 2")
       assert(exists(s3, (x : Int) => x % 4 == 0), "exist 3")
