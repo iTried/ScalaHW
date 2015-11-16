@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb40b4ca-1dc5-40ec-a969-d143c5822b92" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT___scala_compiler_bundle_2_11_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__ch_epfl_lamp_scala_grading_runtime_2_11_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__junit_junit_4_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_sbt_test_interface_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalacheck_scalacheck_2_11_1_12_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/assignment-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/submission-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/submission.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT___scala_compiler_bundle_2_11_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__ch_epfl_lamp_scala_grading_runtime_2_11_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__junit_junit_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_lang_modules_scala_pickling_2_11_0_10_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_lang_scala_compiler_2_11_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_11_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_sbt_test_interface_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scalacheck_scalacheck_2_11_1_12_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scalatest_scalatest_2_11_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/modules/assignment-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/modules/assignment.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/modules/submission-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/modules/submission.iml" />
       <change type="DELETED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw2\funsets\funsets\project\target\config-classes\$6602da0aa6b8acb0d2bd$$anonfun$$sbtdef$1.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw2\funsets\funsets\project\target\config-classes\$6602da0aa6b8acb0d2bd$.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw2\funsets\funsets\project\target\config-classes\$6602da0aa6b8acb0d2bd.cache" afterPath="" />
@@ -40,22 +40,9 @@
       <change type="DELETED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw3\objsets\objsets\target\scala-2.11\classes\objsets\Main$$anonfun$1.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw3\objsets\objsets\target\scala-2.11\classes\objsets\NonEmpty$$anonfun$union$1.class" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw3\objsets\objsets\target\scala-2.11\classes\objsets\NonEmpty$$anonfun$union$2.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Cons.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Cons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Empty.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Empty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Main$.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Main$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Main.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Nil$.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Nil$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/NonEmpty.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/NonEmpty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Tweet.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/Tweet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/TweetList$class.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/TweetList$class.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/TweetSet.class" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/scala-2.11/classes/objsets/TweetSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/submission/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/submission/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hw3/objsets/objsets/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../hw3/objsets/objsets/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="C:\Users\ABC\Desktop\Scala\ScalaHW\hw4\patmat\patmat\.idea\libraries\SBT__org_scala_lang_scala_library_2_11_6.xml" afterPath="$PROJECT_DIR$/../../../hw5/forcomp/forcomp/.idea/libraries/SBT__org_scala_lang_scala_library_2_11_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="patmat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,8 +68,8 @@
       <file leaf-file-name="Huffman.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.835145" vertical-offset="1071" max-vertical-offset="4012">
-              <caret line="220" column="3" selection-start-line="220" selection-start-column="3" selection-end-line="220" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.33876812" vertical-offset="0" max-vertical-offset="4012">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -91,7 +78,7 @@
       <file leaf-file-name="HuffmanSuite.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="935">
+            <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1020">
               <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
               <folding />
             </state>
@@ -132,7 +119,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -161,6 +148,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,8 +244,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,6 +262,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="ScalaTest.HuffmanSuite">
     <configuration default="false" name="HuffmanSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
@@ -474,6 +462,11 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
     <option name="availableProjects">
       <map>
         <entry>
@@ -508,6 +501,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cb40b4ca-1dc5-40ec-a969-d143c5822b92" name="Default" comment="" />
@@ -517,33 +513,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -571,6 +567,38 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="4012">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1020">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4012">
+          <caret line="220" column="3" selection-start-line="220" selection-start-column="3" selection-end-line="220" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1020">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="370" max-vertical-offset="935">
@@ -581,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.835145" vertical-offset="1071" max-vertical-offset="4012">
-          <caret line="220" column="3" selection-start-line="220" selection-start-column="3" selection-end-line="220" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.33876812" vertical-offset="0" max-vertical-offset="4012">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding />
         </state>
       </provider>
